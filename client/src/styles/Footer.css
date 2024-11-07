@@ -1,0 +1,64 @@
+.footer {
+    background-color: #343a40; /* Dark gray background */
+    color: #ffffff; /* White text for contrast */
+    padding: 40px 20px; /* Increased padding for better spacing */
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px 0; /* Adjusted padding */
+}
+
+.footer-links {
+    flex: 1;
+    min-width: 200px;
+    margin: 20px;
+}
+
+.footer-links h4 {
+    margin-bottom: 15px;
+    font-weight: bold;
+    font-size: 18px;
+    color: #ffffff; /* White color for headings */
+}
+
+.footer-links ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-links ul li {
+    margin: 10px 0;
+}
+
+.footer-links ul li a {
+    text-decoration: none;
+    color: #ffffff; /* White color for links */
+    transition: color 0.3s;
+}
+
+.footer-links ul li a:hover {
+    color: #007bff; /* Change to Bootstrap primary color on hover */
+}
+
+.social-links {
+    display: flex;
+    gap: 15px; /* Space between social links */
+}
+
+.footer-bottom {
+    text-align: center;
+    padding: 20px 0;
+    background-color: #212529; /* Even darker gray for the bottom section */
+    border-top: 1px solid #444; /* Subtle border */
+}
+
+.footer-bottom p {
+    margin: 0;
+    color: #ffffff; /* White color for contrast */
+    font-size: 14px; /* Smaller font size for the copyright text */
+}

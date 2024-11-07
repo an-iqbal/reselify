@@ -1,0 +1,28 @@
+.hero-banner {
+  background-image: url("path-to-your-hero-image.jpg");
+  background-size: cover;
+  background-position: center;
+  color: white;
+  padding: 60px 0;
+  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.7);
+}
+
+.card {
+  transition: transform 0.2s;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+footer {
+  border-top: 1px solid #444;
+}
+
+footer a {
+  color: #ccc;
+  text-decoration: none;
+}
+footer a:hover {
+  color: #fff;
+}
