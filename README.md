@@ -67,11 +67,9 @@ Ensure you have the following installed:
 
 ## **📬 Contact Us**  
 
-Have questions or suggestions? We’d love to hear from you!  
+Have questions or suggestions? I’d love to hear from you!  
 
 - 📧 Anwar Iqbal: [anwar.iqbal1390@gmail.com](mailto:anwar.iqbal1390@gmail.com)  
-- 📧 Shanky Barak: [shanky.barak@gmail.com](mailto:shanky.barak@gmail.com)  
-- 📧 Aakash Prajapati: [aakashprajapatiroyal@gmail.com](mailto:aakashprajapatiroyal@gmail.com)  
 
 ---
 
