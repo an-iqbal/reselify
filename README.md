@@ -1,7 +1,3 @@
-Here’s an enhanced and polished version of your README file for **Reselify**:
-
----
-
 # **Reselify: A Marketplace for Students**  
 
 Welcome to **Reselify**, the ultimate platform designed for students to effortlessly buy and sell items within their community. Whether you're decluttering your dorm or hunting for the best deals, Reselify is your trusted marketplace to connect with fellow students.  
