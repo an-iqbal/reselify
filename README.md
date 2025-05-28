@@ -14,6 +14,28 @@ Welcome to **Reselify**, the ultimate platform designed for students to effortle
 
 ---
 
+## 📸 Screenshots
+
+###  Home Page
+![Home Page](Screenshots/Homepage.png)
+
+###  Explore Categories
+![Explore Categories](Screenshots/Explore Categories.png)
+
+###  About Product
+![About Product](Screenshots/About Product.png)
+
+### 📱 Sign in page
+![Sign in page](Screenshots/Sign in page.png)
+
+### 📱 Chats
+![Chats](Screenshots/Chats.png)
+
+### 📱 Write Review
+![Write Review](Screenshots/Write Review.png)
+
+---
+
 ##  Installation  
 
 Follow these steps to set up Reselify locally:  
