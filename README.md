@@ -1,10 +1,10 @@
-# **Reselify: A Marketplace for Students**  
+# Reselify: A Marketplace for Students  
 
 Welcome to **Reselify**, the ultimate platform designed for students to effortlessly buy and sell items within their community. Whether you're decluttering your dorm or hunting for the best deals, Reselify is your trusted marketplace to connect with fellow students.  
 
 ---
 
-## ** Features**  
+##  Features  
 
 -  **User Authentication**: Secure sign-up and log-in to manage your account.  
 -  **Product Listings**: Easily add, edit, and browse items for sale.  
@@ -14,11 +14,11 @@ Welcome to **Reselify**, the ultimate platform designed for students to effortle
 
 ---
 
-## ** Installation**  
+##  Installation  
 
-Follow these steps to set up **Reselify** locally:  
+Follow these steps to set up Reselify locally:  
 
-### ** Prerequisites**  
+###  Prerequisites  
 
 Ensure you have the following installed:  
 
@@ -27,15 +27,15 @@ Ensure you have the following installed:
 
 ---
 
-### ** Setup Instructions**  
+###  Setup Instructions  
 
-1. **Clone the repository**:  
+1. Clone the repository:  
    ```bash  
    git clone https://github.com/an-iqbal/reselify.git  
    cd reselify  
    ```  
 
-2. **Install dependencies**:  
+2. Install dependencies:  
    For the backend:  
    ```bash  
    npm install  
@@ -46,7 +46,7 @@ Ensure you have the following installed:
    npm install  
    ```  
 
-3. **Start the application**:  
+3. Start the application:  
    Run both the frontend and backend servers together:  
    ```bash  
    npm run dev  
@@ -54,7 +54,7 @@ Ensure you have the following installed:
 
 ---
 
-## ** Usage**  
+##  Usage 
 
 1. **Sign up** or **log in** to your account.  
 2. List your items for sale or browse for items you want to purchase.  
@@ -65,7 +65,7 @@ Ensure you have the following installed:
 
 ---
 
-## ** Contact Us**  
+##  Contact Us  
 
 Have questions or suggestions? I’d love to hear from you!  
 
@@ -73,7 +73,7 @@ Have questions or suggestions? I’d love to hear from you!
 
 ---
 
-## ** Contributing**  
+##  Contributing  
 
 Contributions are welcome! Feel free to submit issues or open pull requests to improve the platform.  
 
