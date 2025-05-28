@@ -85,8 +85,6 @@ Ensure you have the following installed:
 
 ---
 
----
-
 ##  Contact Us  
 
 Have questions or suggestions? I’d love to hear from you!  
