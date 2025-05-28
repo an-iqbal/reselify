@@ -14,25 +14,25 @@ Welcome to **Reselify**, the ultimate platform designed for students to effortle
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 ###  Home Page
 ![Home Page](Screenshots/Homepage.png)
 
 ###  Explore Categories
-![Explore Categories](Screenshots/Explore Categories.png)
+![Explore Categories](Screenshots/ExploreCategories.png)
 
 ###  About Product
-![About Product](Screenshots/About Product.png)
+![About Product](Screenshots/AboutProduct.png)
 
-### 📱 Sign in page
-![Sign in page](Screenshots/Sign in page.png)
+###  Sign in page
+![Sign in page](Screenshots/Signin.png)
 
-### 📱 Chats
+###  Chats
 ![Chats](Screenshots/Chats.png)
 
-### 📱 Write Review
-![Write Review](Screenshots/Write Review.png)
+###  Write Review
+![Write Review](Screenshots/Review.png)
 
 ---
 
