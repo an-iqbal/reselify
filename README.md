@@ -96,5 +96,3 @@ Have questions or suggestions? I’d love to hear from you!
 ##  Contributing  
 
 Contributions are welcome! Feel free to submit issues or open pull requests to improve the platform.  
-
----
