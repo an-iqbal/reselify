@@ -4,21 +4,21 @@ Welcome to **Reselify**, the ultimate platform designed for students to effortle
 
 ---
 
-## **🌟 Features**  
+## ** Features**  
 
-- 🔒 **User Authentication**: Secure sign-up and log-in to manage your account.  
-- 🛍️ **Product Listings**: Easily add, edit, and browse items for sale.  
-- 🔍 **Category Filters**: Find products quickly with intuitive category-based filtering.  
-- 💳 **Payment Redirection**: Seamless and secure payments through gateways like Google Pay.  
-- 📱 **Responsive Design**: Optimized for both mobile and desktop devices.  
+-  **User Authentication**: Secure sign-up and log-in to manage your account.  
+-  **Product Listings**: Easily add, edit, and browse items for sale.  
+-  **Category Filters**: Find products quickly with intuitive category-based filtering.  
+-  **Payment Redirection**: Seamless and secure payments through gateways like Google Pay.  
+-  **Responsive Design**: Optimized for both mobile and desktop devices.  
 
 ---
 
-## **🚀 Installation**  
+## ** Installation**  
 
 Follow these steps to set up **Reselify** locally:  
 
-### **📋 Prerequisites**  
+### ** Prerequisites**  
 
 Ensure you have the following installed:  
 
@@ -27,7 +27,7 @@ Ensure you have the following installed:
 
 ---
 
-### **⚙️ Setup Instructions**  
+### ** Setup Instructions**  
 
 1. **Clone the repository**:  
    ```bash  
@@ -54,7 +54,7 @@ Ensure you have the following installed:
 
 ---
 
-## **💡 Usage**  
+## ** Usage**  
 
 1. **Sign up** or **log in** to your account.  
 2. List your items for sale or browse for items you want to purchase.  
@@ -65,15 +65,15 @@ Ensure you have the following installed:
 
 ---
 
-## **📬 Contact Us**  
+## ** Contact Us**  
 
 Have questions or suggestions? I’d love to hear from you!  
 
-- 📧 Anwar Iqbal: [anwar.iqbal1390@gmail.com](mailto:anwar.iqbal1390@gmail.com)  
+-  Anwar Iqbal: [anwar.iqbal1390@gmail.com](mailto:anwar.iqbal1390@gmail.com)  
 
 ---
 
-## **🤝 Contributing**  
+## ** Contributing**  
 
 Contributions are welcome! Feel free to submit issues or open pull requests to improve the platform.  
 
